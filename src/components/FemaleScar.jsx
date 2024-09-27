@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useState } from 'react';
 import { FaShoppingCart, FaChevronLeft, FaHome, FaHeart, FaSearch, FaCog } from 'react-icons/fa';
 import { CgDetailsMore } from "react-icons/cg";
