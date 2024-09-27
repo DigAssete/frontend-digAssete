@@ -25,7 +25,7 @@ const Product = () => {
             <button className='flex items-center space-x-2'>
                 <FaChevronLeft/>
             </button>
-            <span className='absolute left-1/2 transform  text-lg font-bold'>Female Scar</span>
+            <span className='absolute left-10 transform  text-lg font-bold'>Female Scar</span>
             {/* <div className='flex justify-end px-4 py-3 ml-96'>
             <button className='relative '>
                 <FaShoppingCart className='text-lg'/>
@@ -40,7 +40,7 @@ const Product = () => {
                     <p className='text-gray-600 mb-6 text-center'>Scan QR Code to it's authenticity</p>
                      <div className='flex space-x-4 w-full justify-center'>
                         <button className='flex-1 bg-red-600 text-white py-2 rounded-full'>Add Cart</button>
-                        <button className='flex-1 bg-gray-300 border-gray-300 text-gray-700 rounded-full'>Buy now</button>
+                        <button className='flex-1 bg-gray-300 border-gray-300 text-gray-700 rounded-full'>Own Asset</button>
                      </div>
                 </main>
 
