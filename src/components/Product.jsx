@@ -51,7 +51,7 @@ const Product = () => {
                     </button>
                     <button className='flex flex-col items-center text-gray-600'>
                         <FaHeart className='text-lg'/>
-                        <span className='text-xs'>Wishlist</span>
+                        <span className='text-xs'>My assets</span>
                     </button>
                     <button className='flex flex-col items-center text-gray-600'>
                         <FaShoppingCart className='text-lg'/>
